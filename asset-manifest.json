@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/aquashop/static/css/main.31d6cfe0.css",
-    "main.js": "/aquashop/static/js/main.4d204153.js",
+    "main.css": "/aquashop/static/css/main.8c5858b2.css",
+    "main.js": "/aquashop/static/js/main.20c90522.js",
     "index.html": "/aquashop/index.html",
-    "main.4d204153.js.map": "/aquashop/static/js/main.4d204153.js.map"
+    "main.8c5858b2.css.map": "/aquashop/static/css/main.8c5858b2.css.map",
+    "main.20c90522.js.map": "/aquashop/static/js/main.20c90522.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.4d204153.js"
+    "static/css/main.8c5858b2.css",
+    "static/js/main.20c90522.js"
   ]
 }
